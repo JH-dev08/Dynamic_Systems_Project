@@ -1,5 +1,5 @@
 # Dynamic_Systems_Project
-Repositorio dedicado para la integración de proyectos relacionados con los sistemas dinámicos.1er trabajo calificable por el profesor Eduin Salgado para 5to semestre de Ingeniería de Sistemas periodo 2026-2.
+Repositorio dedicado para la integración de proyectos relacionados con los sistemas dinámicos con el profesor Eduin Salgado para el periodo 2026-2.
 
 El proyecto "Lineal_Dynamics_System" contiene 2 codigos main.py, cada uno usa un método distinto de integración del sistema dinamico lineal:
 - main_rk4.py : usa el método de Runge-Kutta de orden 4 para sistemas dinámicos lineales y no lineales con 99% de aproximación.
